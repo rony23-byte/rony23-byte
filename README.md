@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rony23-byte" alt="rony23-byte" /></a> </p>
 
-- 🔭 I’m currently working on **on Celo**
+- 🔭 I’m currently working on **on CeloContractKit**
 
 - 🌱 I’m currently learning **React ,Nodejs and**
 
