@@ -24,7 +24,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@nziokianalo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@nziokianalo" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ronald (analo) nzioki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ronald (analo) nzioki" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ronald-nzioki-ab8b92128/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ronald (analo) nzioki" height="30" width="40" /></a>
 <a href="https://medium.com/@ronaldanalo1997" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ronaldanalo1997" height="30" width="40" /></a>
 </p>
 
