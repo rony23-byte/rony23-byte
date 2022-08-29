@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **on CeloContractKit**
 
-- 🌱 I’m currently learning **React ,Nodejs and**
+- 🌱 I’m currently learning **React ,Nodejs and Hardhat**
 
 - 👯 I’m looking to collaborate on **Creating an Auction Dapp**
 
