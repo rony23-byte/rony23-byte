@@ -11,9 +11,9 @@
 
 - 👯 I’m looking to collaborate on **Creating an Auction Dapp**
 
-- 💬 Ask me about **Celo ContractKit ,Developer Relations Smart Contracts**
+- 💬 Ask me about **Celo ContractKit ,Developer Relations, Smart Contracts**
 
-- 📫 How to reach me **ronald.nzioki2@gmail.com**
+- 📫 How to reach me **ronald.nzioki2@aiesec.net**
 
 - ⚡ Fun fact **I dance when my code works**
 
